@@ -6,7 +6,7 @@ yolov8參考來源:
 https://github.com/ultralytics/ultralytics  
 
 Demo:Hugging Face  
-https://huggingface.co/spaces/miya808/yolov8
+https://huggingface.co/spaces/miyachun/yolov8
 
 
 ![image](https://github.com/miyachun/yolov8/blob/main/demo.jpg)
